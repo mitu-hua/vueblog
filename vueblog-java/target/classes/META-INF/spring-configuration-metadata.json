@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "mituh.jwt",
+      "type": "com.mituh.vueblog.utils.JwtUtils",
+      "sourceType": "com.mituh.vueblog.utils.JwtUtils"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mituh.jwt.expire",
+      "type": "java.lang.Long",
+      "sourceType": "com.mituh.vueblog.utils.JwtUtils",
+      "defaultValue": 0
+    },
+    {
+      "name": "mituh.jwt.header",
+      "type": "java.lang.String",
+      "sourceType": "com.mituh.vueblog.utils.JwtUtils"
+    },
+    {
+      "name": "mituh.jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.mituh.vueblog.utils.JwtUtils"
+    }
+  ],
+  "hints": []
+}

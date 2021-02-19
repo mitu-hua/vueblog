@@ -6,7 +6,7 @@ import javax.validation.constraints.NotBlank;
 import java.io.Serializable;
 
 /**
- * @author
+ * @author Hzz
  * @date 2020/11/26 14:32
  */
 
